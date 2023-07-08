@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **chunyuema01@gmail.com**
 
-- 📄 Know about my experiences [https://chunyuema.notion.site/Chunyue-s-Resume-da6bc94872c945fca41e3723f61a65e7](https://chunyuema.notion.site/Chunyue-s-Resume-da6bc94872c945fca41e3723f61a65e7)
+- 📄 Know about my experiences: [My Resume](https://chunyuema.notion.site/Chunyue-s-Resume-da6bc94872c945fca41e3723f61a65e7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
