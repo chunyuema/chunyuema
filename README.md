@@ -14,7 +14,7 @@ I am a software engineer passionate about understanding how code, machines, and 
 - 🏗️ **Systems Architect:** Exploring availability and resilience in large-scale software systems.
 - 🔭 **Observability:** Fascinated by cloud-native/distributed systems and the pursuit of accurate, rapid root-cause analysis.
 - ⚡ **HPC & Sustainability:** Currently exploring **High-Performance Computing** and **Green Software Engineering** to build a more proactive and efficient AI future.
-- 👨‍💻 **Portfolio:** [chunyuema.github.io](https://chunyuema.github.io/)
+- 👨‍💻 **Portfolio:** [chunyuema.github.io]([https://chunyuema.github.io/](https://chunyuema-github-io.vercel.app/))
 
 ---
 
